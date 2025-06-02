@@ -66,6 +66,9 @@
 .color-fondo-verde {
     background-color: #39b54a;
 }
+.color-fondo-negro {
+    background-color: black;
+}
 
 .contenedor-foto{
     height: 80%;
@@ -147,9 +150,11 @@
     display: flex;
     margin-top: 40px;
 }
+
 .seccion-footer{
     display: flex;
     flex-wrap: wrap;
+
 }
 .div-footer{
     width: 21%;
