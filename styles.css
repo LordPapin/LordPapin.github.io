@@ -235,14 +235,11 @@
     /* display: none; */
 }
 .articulo-descripcion {
-    visibility: hidden;
-}
-.articulo:hover .articulo-descripcion {
     visibility: visible;
-}
-.articulo :hover ~ .desplegar-info-articulo {
     display: block;
+    text-align: left;
 }
+
 .input-form{
     margin-top: 10px;
     border-radius: 5px;
